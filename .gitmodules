@@ -25,3 +25,6 @@
 	path = lib/lvgl
 	url = https://github.com/qmk/lvgl.git
 	branch = release/v8.2
+[submodule "keyboards/splitkb/aurora/sweep/keymaps/etyloppihacilem"]
+	path = keyboards/splitkb/aurora/sweep/keymaps/etyloppihacilem
+	url = git@github.com:etyloppihacilem/qmk_config.git
